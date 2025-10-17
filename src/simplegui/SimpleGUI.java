@@ -26,3 +26,4 @@ public class SimpleGUI {
         frame.setVisible(true);
     }
 }
+//commit
